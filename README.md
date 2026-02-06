@@ -4,6 +4,8 @@
 
 graficos-laliga.streamlit.app
 
+## Sobre
+
 Este projeto é um dashboard interativo desenvolvido em Python + Streamlit que consome dados da API Football-Data.org para analisar estatísticas da La Liga, incluindo:
 
 Artilharia
